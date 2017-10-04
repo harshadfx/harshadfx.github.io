@@ -1,13 +1,10 @@
-# library-jekyll-theme
+# NX-techincal-library
 
-Easily create a digital bookshelf of your favorite books.
-
-[Demo](http://alexcarpenter.github.io/library-jekyll-theme/)
+  Welcome to my first experiment in creating a library for technical books.
+  This library will be maintained by NX Drafting team (8th floor) and will initially be only available for Drafting team members.
 
 ## Author
-- [Website](http://alexcarpenter.me)
-- [Twitter](https://twitter.com/hybrid_alex)
-- [Github](https://github.com/alexcarpenter)
+- [Website]()
+- [Twitter](https://twitter.com/harshadrsharma)
+- [Github](https://github.com/harshadfx)
 
-## License
-[MIT](https://github.com/alexcarpenter/library-jekyll-theme/blob/master/LICENSE)
