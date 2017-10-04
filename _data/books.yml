@@ -1,29 +1,24 @@
-- title: Ready Player One
-  author: Ernest Cline
-  image: readyplayerone.jpg
+- title: Working Effectively with Legacy Code
+  author: Michael Feathers
+  image: workingEffectivelyWithLegacyCode.jpg
   link:
 
-- title: The Revenant
-  author: Michael Punke
-  image: therevenant.jpg
+- title: Effective Modern C++
+  author: Scott Meyers
+  image: EffectiveModernC++.jpg
   link:
 
-- title: Wool
-  author: Hugh Howey
-  image: wool.jpg
+- title: A Tour of C++
+  author: Bjarne Stroustrup
+  image: ATourOfC++.jpg
   link:
 
-- title: The Martian
-  author: Andy Weir
-  image: themartian.jpg
+- title: Elements of Programming Interviews
+  author: Adnan Aziz, Amit Prakash, Tsung-Hsien Lee
+  image: ElementsofProgrammingInterviews.jpg
   link:
 
-- title: The Man in the High Castle
-  author: Philip K Dick
-  image: themaninthehighcastle.jpg
-  link:
-
-- title: Deception Point
-  author: Dan Brown
-  image: deceptionpoint.jpg
+- title: Peeling Design Patterns: For Beginners and Interviews
+  author: Narasimha Karumanchi
+  image: PeelingDesignPatterns.jpg
   link:
