@@ -1,12 +1,11 @@
 # Site settings
-title: Library Jekyll Theme
-email: your-email@domain.com
+title: NX Techincal Library
+email: harshadfx@yahoo.com
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my first experiment in creating a library for technical books.
+  This library will be maintained by NX Drafting team (8th floor) and will initially be only available for Drafting team members.
 baseurl: ""
-url: "http://example.com"
+url: "https://harshadfx.github.io/"
 
 # Collections
 #collections:
