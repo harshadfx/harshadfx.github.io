@@ -1,25 +1,29 @@
 - title: Working Effectively with Legacy Code
   author: Michael Feathers
-  submitted by: Harshad Sharma
+  submitted_by: Harshad Sharma
   image: workingEffectivelyWithLegacyCode.jpg
   link:
 
 - title: Effective Modern C++
   author: Scott Meyers
+  submitted_by: Harshad Sharma
   image: EffectiveModernC++.jpg
   link:
 
 - title: A Tour of C++
   author: Bjarne Stroustrup
+  submitted_by: Harshad Sharma
   image: ATourOfC++.jpg
   link:
 
 - title: Elements of Programming Interviews
   author: Adnan Aziz, Amit Prakash, Tsung-Hsien Lee
+  submitted_by: Harshad Sharma
   image: ElementsofProgrammingInterviews.jpg
   link:
 
 - title: Peeling Design Patterns For Beginners and Interviews
   author: Narasimha Karumanchi
+  submitted_by: Harshad Sharma
   image: PeelingDesignPatterns.jpg
   link:
