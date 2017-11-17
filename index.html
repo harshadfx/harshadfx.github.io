@@ -13,7 +13,13 @@ layout: default
       <h2>{{ book.title }}</h2>
       <p>{{ book.author }}</p>
       <p>Submitted By: {{ book.submitted_by }}</p>
-      <p>Current Holding: <span style="color: #ff0000"><b>{{ book.holding }}</b></span></p>
+      <p>Current Holding:</p>
+      <p id="holding"><b>{{ book.holding }}</b></>
+      <script>
+        if (document.getElementById("demo").innerHTML == "Available") {
+        document.getElementById("demo").style="color:red;";
+      }
+</script>
     </div>
   </article>
   {% endfor %}
