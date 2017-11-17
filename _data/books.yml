@@ -1,21 +1,21 @@
-- title: Working Effectively with Legacy Code
-  author: Michael Feathers
-  submitted_by: Harshad Sharma
-  image: workingEffectivelyWithLegacyCode.jpg
+- title: Machine Drawing
+  author: N.D. Bhatt, V.M.Panchal
+  submitted_by: Sahil Bele
+  image: MachineDrawing.jpg
   link:
   holding: Available
 
+- title: Engineering Drawing - Plane and Solid Geometry
+  author: N.D. Bhatt, V.M.Panchal
+  submitted_by: Sahil Bele
+  image: EnggDrawing.jpg
+  link:
+  holding: Available
+  
 - title: Effective Modern C++
   author: Scott Meyers
   submitted_by: Harshad Sharma
   image: EffectiveModernC++.jpg
-  link:
-  holding: Available
-
-- title: A Tour of C++
-  author: Bjarne Stroustrup
-  submitted_by: Harshad Sharma
-  image: ATourOfC++.jpg
   link:
   holding: Available
 
